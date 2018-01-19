@@ -1,24 +1,49 @@
-# README
+# Book Keeper
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Sample of Ruby on Rails Book Keeper App. Basic CRUD application for managing a collection of books and related subjects. Designed by [planlodge](https://planlodge.com).
 
-Things you may want to cover:
+[![Build Status](https://travis-ci.org/stevenbenner/jquery-powertip.svg?branch=master)](https://travis-ci.org/stevenbenner/jquery-powertip)
+![License](https://img.shields.io/packagist/l/doctrine/orm.svg)
 
-* Ruby version
 
-* System dependencies
+## Description
 
-* Configuration
+> Find awesome cloudcasts roaming the world. Right now. Discover artists from all over the planet in any genere of music. Search by artists, genre, or city to find that awesome cloudcasts you've been waiting on.
 
-* Database creation
+![Image](https://github.com/planlodge/soundmix/blob/master/screenshots/screen1.png?raw=true)
 
-* Database initialization
+## Updates and News
 
-* How to run the test suite
+### Version 1.2.3 Updates
+- API Call Corrections
+- UI Layout fixes
+- Error Handling and 404 page update
+- Slideshow additions and new fonts
 
-* Services (job queues, cache servers, search engines, etc.)
+## Features
 
-* Deployment instructions
+### Users
+- View user followers, following, cloudcasts, listeners, and comments.
+- Parallax scrolling on user profile page along with user detail panel
+- View user feed of most recent activity.
+### Music
+- Suggested music based on mix listen choice.
+- View listeners and other users who have favorited the same mix.
 
-* ...
+![Image](https://github.com/planlodge/soundmix/blob/master/screenshots/screen2.png?raw=true)
+
+### Homepage
+- New lists and artists that are updated upon each visit.
+- View latest mixes, along with the most popular ones as well.
+- Get a snapshot of the top active users.
+- Stay up to date with the msot popular mixes internationally, based on region and popular cities.
+
+### Your Hood
+- Search your city for mixes based on your location
+- Find other mixes and cloudcasts by city.
+
+![Image](https://github.com/planlodge/soundmix/blob/master/screenshots/screen3.png?raw=true)
+
+## License
+
+Book Keeper is licensed under the [MIT license](http://opensource.org/licenses/MIT).
