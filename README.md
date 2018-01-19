@@ -10,7 +10,7 @@ Sample of Ruby on Rails Book Keeper App. Basic CRUD application for managing a c
 
 > Find awesome cloudcasts roaming the world. Right now. Discover artists from all over the planet in any genere of music. Search by artists, genre, or city to find that awesome cloudcasts you've been waiting on.
 
-![Image](https://github.com/planlodge/soundmix/blob/master/screenshots/screen1.png?raw=true)
+![Image](https://github.com/planlodge/book-keeper/blob/master/screenv1.png?raw=true)
 
 ## Updates and News
 
@@ -30,7 +30,7 @@ Sample of Ruby on Rails Book Keeper App. Basic CRUD application for managing a c
 - Suggested music based on mix listen choice.
 - View listeners and other users who have favorited the same mix.
 
-![Image](https://github.com/planlodge/soundmix/blob/master/screenshots/screen2.png?raw=true)
+![Image](https://github.com/planlodge/book-keeper/blob/master/screenv2.png?raw=true)
 
 ### Homepage
 - New lists and artists that are updated upon each visit.
@@ -42,7 +42,9 @@ Sample of Ruby on Rails Book Keeper App. Basic CRUD application for managing a c
 - Search your city for mixes based on your location
 - Find other mixes and cloudcasts by city.
 
-![Image](https://github.com/planlodge/soundmix/blob/master/screenshots/screen3.png?raw=true)
+![Image](https://github.com/planlodge/book-keeper/blob/master/screenv3.png?raw=true)
+
+![Image](https://github.com/planlodge/book-keeper/blob/master/screenv5.png?raw=true)
 
 ## License
 
